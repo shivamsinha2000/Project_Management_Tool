@@ -72,9 +72,7 @@ Make sure to fill out the database section of the config in order to connect it 
 
 Then run the database migrations with `taskcafe migrate`.
 
-Now you can run the web interface by running `taskcafe web`.
-
-[A more detailed guide for installing on Ubuntu/Debian](https://github.com/JordanKnott/taskcafe/wiki/Installation-(ubuntu-debian))
+Now you can run the web interface by running `taskcafe web`
 
 
 
